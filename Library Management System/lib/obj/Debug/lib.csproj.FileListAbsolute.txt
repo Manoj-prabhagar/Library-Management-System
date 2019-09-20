@@ -1,0 +1,34 @@
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\bin\Debug\lib.exe.config
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\bin\Debug\lib.exe
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\bin\Debug\lib.pdb
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.Login.resources
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.mdi_user.resources
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.Properties.Resources.resources
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.csproj.GenerateResource.Cache
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.exe
+c:\users\manoj\documents\visual studio 2015\Projects\lib\lib\obj\Debug\lib.pdb
+C:\Users\Manoj\documents\visual studio 2015\Projects\Lib\lib\obj\Debug\lib.add_books.resources
+C:\Users\Manoj\documents\visual studio 2015\Projects\Lib\lib\obj\Debug\lib.view_books.resources
+C:\Users\Manoj\Documents\Visual Studio 2015\Projects\lib\lib\obj\Debug\lib.add_student_info.resources
+C:\Users\Manoj\Documents\Visual Studio 2015\Projects\lib\lib\obj\Debug\lib.view_student_info.resources
+C:\Users\Manoj\Documents\Visual Studio 2015\Projects\lib\lib\obj\Debug\lib.issue_books.resources
+C:\Users\Manoj\Documents\Visual Studio 2015\Projects\lib\lib\obj\Debug\lib.return_books.resources
+C:\Users\Manoj\Documents\Visual Studio 2015\Projects\lib\lib\obj\Debug\lib.books_stock.resources
+C:\Users\Manoj\Desktop\lib\lib\bin\Debug\lib.exe.config
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.exe
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.pdb
+C:\Users\Manoj\Desktop\lib\lib\bin\Debug\lib.exe
+C:\Users\Manoj\Desktop\lib\lib\bin\Debug\lib.pdb
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.add_books.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.add_student_info.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.books_stock.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.issue_books.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.Login.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.mdi_user.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.Properties.Resources.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.return_books.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.view_books.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.view_student_info.resources
+C:\Users\Manoj\Desktop\lib\lib\obj\Debug\lib.csproj.GenerateResource.Cache
